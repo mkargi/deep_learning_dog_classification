@@ -20,9 +20,6 @@ https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
 
 ## Install
 - clone git repo: git clone https://github.com/mkargi/deep_learning_dog_classification.git
-- create conda environment: 
-    - conda create -n dog_breeds python=3
-    - conda activate dog_breeds
-    - conda env create -f environment.yaml
+- create conda environment: conda env create -f environment.yaml
 
 
